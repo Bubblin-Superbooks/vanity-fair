@@ -1,0 +1,22 @@
+{
+  "name": "Vanity Fair",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/vanity-fair/master/assets",
+  "book_id": 911,
+  "book_url": "https://bubblin.io/book/vanity-fair-by-william-makepeace-thackeray"
+}
